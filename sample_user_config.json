@@ -1,11 +1,19 @@
 {
     "extra_cmdline": {
-        "pid": "0x0001",
-        "vid": "0x46f4",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+      "pid": "0x46f4",
+      "vid": "0x0001",
+      "sn": "DXHL33MUBBOJU",
+      "mac1": "001132ECDB7F",
+      "SataPortMap": "1",
+      "DiskIdxMap": "10"
     },
-    "synoinfo": {},
-    "ramdisk_copy": {},
-    "extensions": []
-}
+    "synoinfo": {
+      "internalportcfg": "0xffff",
+      "maxdisks": "16",
+      "support_bde_internal_10g": "no",
+      "support_disk_compatibility": "no",
+      "support_memory_compatibility": "no"
+    },
+    "ramdisk_copy": {}
+  }
+  
